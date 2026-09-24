@@ -25,13 +25,13 @@ import {
   هذه القيم هي إعدادات Web App وليست مفاتيح Service Account.
 */
 const firebaseConfig = {
-  apiKey: "AIzaSyCKmgV86tOBBD562OxsiMUcaxOhNkuau2E",
-  authDomain: "school-management-dc25c.firebaseapp.com",
-  databaseURL: "https://school-management-dc25c-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "school-management-dc25c",
-  storageBucket: "school-management-dc25c.firebasestorage.app",
-  messagingSenderId: "1057617132397",
-  appId: "1:1057617132397:web:3de5fbdd46784792b33864"
+  apiKey: "AIzaSyDFzr3gxolAs5ydYfkb-Ui7H4xwDAHXFVU",
+  authDomain: "kabartoo-school-system.firebaseapp.com",
+  projectId: "kabartoo-school-system",
+  storageBucket: "kabartoo-school-system.firebasestorage.app",
+  messagingSenderId: "113746991114",
+  appId: "1:113746991114:web:93a53ed0d68ac4eb1627f3",
+  measurementId: "G-C2WJPCBHKW"
 };
 
 const app = initializeApp(firebaseConfig);
